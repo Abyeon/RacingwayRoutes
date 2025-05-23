@@ -1,0 +1,626 @@
+[
+    {
+        "_id": {"$oid": "67d4923ca816370fe37eaa70"},
+        "name": "Kugane Tower",
+        "description": "",
+        "address": 
+        {
+            "_id": {"$oid": "683019f891258d0f309bf02d"},
+            "territoryId": "628",
+            "mapId": "370",
+            "locationId": "628",
+            "readableName": "Kugane"
+        },
+        "triggers": 
+        [
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Start",
+                "Cube": 
+                [
+                    "-44.542",
+                    "14.025",
+                    "-34.733",
+                    "4.3",
+                    "1",
+                    "4.3",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-43.099068",
+                    "26.499939",
+                    "-79.53773",
+                    "0.4",
+                    "1",
+                    "2.1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-46.595753",
+                    "42.010002",
+                    "-70.36357",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-44.949",
+                    "77.14999",
+                    "-65.46055",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-42.17826",
+                    "90.78701",
+                    "-66.128555",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Finish",
+                "Cube": 
+                [
+                    "-48.035",
+                    "107.50397",
+                    "-58.968304",
+                    "1",
+                    "1",
+                    "5.2",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Fail",
+                "Cube": 
+                [
+                    "-47.673",
+                    "-4",
+                    "-58.817",
+                    "35",
+                    "16.8",
+                    "35",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "records": null,
+        "allowMounts": false,
+        "enabled": true,
+        "requireGroundedStart": true,
+        "requireGroundedFinish": true,
+        "clientFails": 0,
+        "clientFinishes": 0,
+        "autoCleanupEnabled": false,
+        "maxRecordsToKeep": 100,
+        "keepTopNRecords": 10,
+        "deleteOldRecordsEnabled": false,
+        "maxDaysToKeep": 30,
+        "keepPersonalBests": true,
+        "filterByTimeEnabled": false,
+        "minTimeThreshold": 5.0,
+        "maxTimeThreshold": 0.0
+    },
+    {
+        "_id": {"$oid": "6828c5b5b8e9240ee9cb81a6"},
+        "name": "Shirogane Lighthouse",
+        "description": "",
+        "address": 
+        {
+            "_id": {"$oid": "68301b2091258d0f309bf095"},
+            "territoryId": "641",
+            "mapId": "365",
+            "locationId": "641",
+            "readableName": "Shirogane"
+        },
+        "triggers": 
+        [
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Start",
+                "Cube": 
+                [
+                    "-769.184",
+                    "28.6",
+                    "-943.042",
+                    "16.6",
+                    "1.9",
+                    "14.5",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Finish",
+                "Cube": 
+                [
+                    "-763.984",
+                    "63.4",
+                    "-939.042",
+                    "0.5",
+                    "1.7",
+                    "0.4",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Fail",
+                "Cube": 
+                [
+                    "-768.261",
+                    "-12.9",
+                    "-937.56995",
+                    "63.7",
+                    "40.5",
+                    "43.2",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "records": null,
+        "allowMounts": false,
+        "enabled": true,
+        "requireGroundedStart": true,
+        "requireGroundedFinish": true,
+        "clientFails": 0,
+        "clientFinishes": 0,
+        "autoCleanupEnabled": false,
+        "maxRecordsToKeep": 100,
+        "keepTopNRecords": 10,
+        "deleteOldRecordsEnabled": false,
+        "maxDaysToKeep": 30,
+        "keepPersonalBests": true,
+        "filterByTimeEnabled": false,
+        "minTimeThreshold": 5.0,
+        "maxTimeThreshold": 0.0
+    },
+    {
+        "_id": {"$oid": "682a3c5a8111110f7d40f9af"},
+        "name": "Bokairo Inn Bath Roof",
+        "description": "",
+        "address": 
+        {
+            "_id": {"$oid": "68301bae91258d0f309bf0c7"},
+            "territoryId": "628",
+            "mapId": "370",
+            "locationId": "628",
+            "readableName": "Kugane"
+        },
+        "triggers": 
+        [
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Start",
+                "Cube": 
+                [
+                    "-73.394",
+                    "17.899998",
+                    "-164.48389",
+                    "3",
+                    "1",
+                    "5.1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-72.498825",
+                    "29.699995",
+                    "-184.03513",
+                    "2",
+                    "1",
+                    "0.5",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-81.0086",
+                    "41.61",
+                    "-182.05869",
+                    "1",
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Finish",
+                "Cube": 
+                [
+                    "-91.69883",
+                    "56.414047",
+                    "-196.64546",
+                    "2.9",
+                    "1",
+                    "2.7",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Fail",
+                "Cube": 
+                [
+                    "-48.69787",
+                    "5.886804",
+                    "-173.911",
+                    "21",
+                    "12.3",
+                    "24.4",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Fail",
+                "Cube": 
+                [
+                    "-84.79459",
+                    "23.4",
+                    "-180.068",
+                    "10.2",
+                    "1.6",
+                    "6.3",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "records": null,
+        "allowMounts": false,
+        "enabled": true,
+        "requireGroundedStart": true,
+        "requireGroundedFinish": true,
+        "clientFails": 0,
+        "clientFinishes": 0,
+        "autoCleanupEnabled": false,
+        "maxRecordsToKeep": 100,
+        "keepTopNRecords": 10,
+        "deleteOldRecordsEnabled": false,
+        "maxDaysToKeep": 30,
+        "keepPersonalBests": true,
+        "filterByTimeEnabled": false,
+        "minTimeThreshold": 5.0,
+        "maxTimeThreshold": 0.0
+    },
+    {
+        "_id": {"$oid": "682a35728111110f7d3fd9a6"},
+        "name": "Rhalgr's Reach Wall Top",
+        "description": "",
+        "address": 
+        {
+            "_id": {"$oid": "68301be691258d0f309bf0f9"},
+            "territoryId": "635",
+            "mapId": "366",
+            "locationId": "635",
+            "readableName": "Rhalgr's Reach"
+        },
+        "triggers": 
+        [
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Start",
+                "Cube": 
+                [
+                    "-52.695763",
+                    "-1.131",
+                    "-96.22907",
+                    "1.9",
+                    "1.4",
+                    "3.3",
+                    "0.8",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Finish",
+                "Cube": 
+                [
+                    "-49.49899",
+                    "15.73",
+                    "-90.27512",
+                    "0.8",
+                    "2.5",
+                    "3.4",
+                    "0.8",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "records": null,
+        "allowMounts": true,
+        "enabled": true,
+        "requireGroundedStart": true,
+        "requireGroundedFinish": true,
+        "clientFails": 0,
+        "clientFinishes": 0,
+        "autoCleanupEnabled": false,
+        "maxRecordsToKeep": 100,
+        "keepTopNRecords": 10,
+        "deleteOldRecordsEnabled": false,
+        "maxDaysToKeep": 30,
+        "keepPersonalBests": true,
+        "filterByTimeEnabled": false,
+        "minTimeThreshold": 5.0,
+        "maxTimeThreshold": 0.0
+    },
+    {
+        "_id": {"$oid": "682a52b78111110f7d4864bf"},
+        "name": "Radz-at-Han Rooftops",
+        "description": "",
+        "address": 
+        {
+            "_id": {"$oid": "68301c5191258d0f309bf133"},
+            "territoryId": "963",
+            "mapId": "694",
+            "locationId": "963",
+            "readableName": "Radz-at-Han"
+        },
+        "triggers": 
+        [
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Start",
+                "Cube": 
+                [
+                    "-94.405",
+                    "13.9",
+                    "146.228",
+                    "6.1",
+                    "0.6",
+                    "5.2",
+                    "0.8",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "-109.89573",
+                    "23.68129",
+                    "162.37613",
+                    "2.1",
+                    "1",
+                    "2.1",
+                    "0.8",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Finish",
+                "Cube": 
+                [
+                    "-99.58661",
+                    "46.23178",
+                    "147.11827",
+                    "1.8",
+                    "1",
+                    "1.3",
+                    "0.8",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "records": null,
+        "allowMounts": false,
+        "enabled": true,
+        "requireGroundedStart": true,
+        "requireGroundedFinish": true,
+        "clientFails": 0,
+        "clientFinishes": 0,
+        "autoCleanupEnabled": false,
+        "maxRecordsToKeep": 100,
+        "keepTopNRecords": 10,
+        "deleteOldRecordsEnabled": false,
+        "maxDaysToKeep": 30,
+        "keepPersonalBests": true,
+        "filterByTimeEnabled": false,
+        "minTimeThreshold": 5.0,
+        "maxTimeThreshold": 0.0
+    },
+    {
+        "_id": {"$oid": "682a55de8111110f7d4946da"},
+        "name": "Hunu'iliy Tower",
+        "description": "",
+        "address": 
+        {
+            "_id": {"$oid": "68301ca291258d0f309bf16f"},
+            "territoryId": "1185",
+            "mapId": "855",
+            "locationId": "1185",
+            "readableName": "Tuliyollal"
+        },
+        "triggers": 
+        [
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Start",
+                "Cube": 
+                [
+                    "267.875",
+                    "44.9",
+                    "-378.54614",
+                    "1",
+                    "1",
+                    "3.2",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "263.48642",
+                    "69.37498",
+                    "-389.1344",
+                    "1.1",
+                    "1",
+                    "8",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Finish",
+                "Cube": 
+                [
+                    "253.40042",
+                    "143.7394",
+                    "-389.19946",
+                    "2.8",
+                    "1",
+                    "2.8",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "261.827",
+                    "98.78591",
+                    "-389.16168",
+                    "1.9",
+                    "1",
+                    "7.7",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Checkpoint",
+                "Cube": 
+                [
+                    "258.85596",
+                    "115.586",
+                    "-389.144",
+                    "0.9",
+                    "1",
+                    "6",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            },
+            {
+                "_id": {"$oid": "000000000000000000000000"},
+                "Type": "Fail",
+                "Cube": 
+                [
+                    "251.718",
+                    "41.899998",
+                    "-388.5",
+                    "31",
+                    "1",
+                    "35.1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            }
+        ],
+        "records": null,
+        "allowMounts": false,
+        "enabled": true,
+        "requireGroundedStart": true,
+        "requireGroundedFinish": true,
+        "clientFails": 0,
+        "clientFinishes": 0,
+        "autoCleanupEnabled": false,
+        "maxRecordsToKeep": 100,
+        "keepTopNRecords": 10,
+        "deleteOldRecordsEnabled": false,
+        "maxDaysToKeep": 30,
+        "keepPersonalBests": true,
+        "filterByTimeEnabled": false,
+        "minTimeThreshold": 5.0,
+        "maxTimeThreshold": 0.0
+    }
+]
